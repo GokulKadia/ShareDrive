@@ -1,0 +1,16 @@
+C:\Users\Admin\Desktop\BIOS Setting\NetworkShare\NetworkShare\obj\Debug\NetworkShare.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\BIOS Setting\NetworkShare\NetworkShare\obj\Debug\NetworkShare.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\BIOS Setting\NetworkShare\NetworkShare\obj\Debug\NetworkShare.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\BIOS Setting\NetworkShare\NetworkShare\bin\Debug\NetworkShare.exe.config
+C:\Users\Admin\Desktop\BIOS Setting\NetworkShare\NetworkShare\bin\Debug\NetworkShare.exe
+C:\Users\Admin\Desktop\BIOS Setting\NetworkShare\NetworkShare\bin\Debug\NetworkShare.pdb
+C:\Users\Admin\Desktop\BIOS Setting\NetworkShare\NetworkShare\obj\Debug\NetworkShare.exe
+C:\Users\Admin\Desktop\BIOS Setting\NetworkShare\NetworkShare\obj\Debug\NetworkShare.pdb
+C:\Users\Admin\Desktop\BIOS Setting\Done\NetworkShare\NetworkShare\bin\Debug\NetworkShare.exe.config
+C:\Users\Admin\Desktop\BIOS Setting\Done\NetworkShare\NetworkShare\bin\Debug\NetworkShare.exe
+C:\Users\Admin\Desktop\BIOS Setting\Done\NetworkShare\NetworkShare\bin\Debug\NetworkShare.pdb
+C:\Users\Admin\Desktop\BIOS Setting\Done\NetworkShare\NetworkShare\obj\Debug\NetworkShare.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\BIOS Setting\Done\NetworkShare\NetworkShare\obj\Debug\NetworkShare.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\BIOS Setting\Done\NetworkShare\NetworkShare\obj\Debug\NetworkShare.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\BIOS Setting\Done\NetworkShare\NetworkShare\obj\Debug\NetworkShare.exe
+C:\Users\Admin\Desktop\BIOS Setting\Done\NetworkShare\NetworkShare\obj\Debug\NetworkShare.pdb
